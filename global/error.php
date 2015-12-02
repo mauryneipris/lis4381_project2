@@ -5,10 +5,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-	<meta name="author" content="Mark K. Jowett, Ph.D.">
+	<meta name="author" content="Maury Neipris">
 	<link rel="icon" href="favicon.ico">
 
-	<title>CRSXXXX Assignment/ProjectX</title>
+	<title>LIS4381 Assignment 5</title>
 
 <!-- Include FontAwesome CSS to use feedback icons provided by FontAwesome -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -19,6 +19,7 @@
 
 <!-- Starter template for your own custom styling. -->
 <link href="css/starter-template.css" rel="stylesheet">
+<link rel="stylesheet" href="../css/mainnav.css">
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
@@ -28,7 +29,7 @@
 
 </head>
 <body>
-	<?php include_once("../global/nav.php"); ?>
+	<?php include_once("../global/nav_global.php"); ?>
 	
 	<div class="container">
 			<div class="row">

@@ -1,7 +1,8 @@
-Required: First, delete these notes, and include YOUR OWN, before pushing
-to your remote repo. This file *must* use Markdown syntax, and provide project
-documentation--otherwise, points *will* be deducted.
+## LIS4381 Project 2
+ Maury Neipris
 
-Also, global subdir. is missing header.php and footer.php. You'll need to create
-your own files!  :)
+## Website URL
+[website](http://www.mauryneipris.com/LIS4381/p2/index.php)
 
+## Description 
+Uses code refactoring on A5 and adds an RSS Feed.
